@@ -15,3 +15,4 @@ sparc
 sparc-fbsd
 x86
 x86-fbsd
+x86-hurd
